@@ -1,0 +1,5 @@
+name = Varnish dashboard
+description = "Realtime HTML Dashboard using data from Varnish Agent."
+core = 7.x
+package = Caching
+dependencies[] = varnish
